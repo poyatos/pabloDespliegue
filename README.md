@@ -1,8 +1,8 @@
 # pabloDespliegue
 Ejercicio para practicar git en despliegue
-# Mi ejemplo de Readmy
+# Mi ejemplo de Readme
 
-Esto es un ejemplo para la practica de despliegue para el readmy
+Esto es un ejemplo para la practica de despliegue para el readme
 
 
 ## Mapa de navegación
