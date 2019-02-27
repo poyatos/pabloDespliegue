@@ -73,8 +73,9 @@
 
 
    <?php
-   include "include/footer.inc"
-   ?>
+      include "include/index.inc"
+      include "include/footer.inc"
+    ?>
 
 </body>
 
